@@ -2,6 +2,10 @@
 
 Es un brazo con un sensor laser de distancia. Permite tomar y soltar cosas desde una repisa.
 
+## Demostración
+
+![](funcionamiento.gif)
+
 ## Partes
 
 * 2 Arduino Mega: uno controla el brazo, y otro se comunica con el sensor.
